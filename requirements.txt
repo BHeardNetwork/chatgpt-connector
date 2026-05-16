@@ -1,0 +1,1 @@
+open file /home/workdir/artifacts/chatgpt-connector/requirements.txt
